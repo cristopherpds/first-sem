@@ -13,5 +13,7 @@ public class Arquivo {
         byte[] bytes = texto.getBytes();
         Files.write(path, bytes);
     
+        byte[] read = Files.readAllBytes(path);
+        System.out.println(new String(read));
     }
 }

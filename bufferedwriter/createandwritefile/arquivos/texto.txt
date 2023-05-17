@@ -1,0 +1,7 @@
+Hoje estammos trabalhando com Stream.
+Podemos adicinar varios textos.
+Sem perder a informacao.
+teste.
+
+
+oi
